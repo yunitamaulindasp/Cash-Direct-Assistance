@@ -1,4 +1,4 @@
-# Cash-Direct-Assistance
+# Cash Direct Assistance
 <table>
 		<thead>
 			<th>Username</th>
