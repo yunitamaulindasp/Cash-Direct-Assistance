@@ -1,5 +1,7 @@
 # Cash Direct Assistance
-<table>
+This web-based application is built using PHP, HTML5, and MySQL as well as Bootstrap.
+<p>
+	<table>
 		<thead>
 			<th>Username</th>
 			<th>Password</th>
